@@ -1,5 +1,5 @@
-# MLSC-Bootcamp
-Add your names below:
-Divyansh
-Hritik
-Vivek
+# MLSC-SMIT Git & Github Bootcamp
+### Add your names below:
+- Divyansh
+- Hritik
+- Vivek
