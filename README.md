@@ -3,3 +3,5 @@
 - Divyansh
 - Hritik
 - Vivek
+- Peter Parker (Andrew Garfield)
+- Gwen Stacy (Emma Stone)
