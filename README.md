@@ -1,2 +1,5 @@
 # MLSC-Bootcamp
-Add your names to the readme...
+Add your names below:
+Divyansh
+Hritik
+Vivek
