@@ -5,3 +5,5 @@
 - Vivek
 - Garv
 - Yuvraj
+- kriti
+- shristi
